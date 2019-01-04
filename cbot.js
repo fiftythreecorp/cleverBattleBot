@@ -1,6 +1,5 @@
 const fs = require("fs");
 const cleverApi = require('node-cleverapi');
-const Telegraf = require('telegraf');
 const mysql = require('mysql');
 const xss = require('xss')
 	var pool = mysql.createPool({
