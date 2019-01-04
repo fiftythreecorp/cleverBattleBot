@@ -12,7 +12,7 @@ const xss = require('xss')
 
 var cb = new cleverApi({
   login: 'BOT LOGIN',
-  password: 'DB ',
+  password: 'BOT PASSWORD ',
   longpoll: false
 });
 var AccID = 2;
